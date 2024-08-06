@@ -1,0 +1,7 @@
+# rust-workspace
+
+Rust Workspaces: A guide to managing your code better
+
+This repository shows the source code for building a REST API with Rust workspaces.
+
+[Article Link](https://fullstackwriter.dev/post/rust-workspaces-a-guide-to-managing-your-code-better?category=rust)
